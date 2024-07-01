@@ -8,28 +8,28 @@ const run = async () => {
 
   // YOUR bluesky handle
   // Ex: user.bsky.social
-  const handle = ''
+  const handle = 'davidjohnbaker.bsky.social'
 
   // YOUR bluesky password, or preferably an App Password (found in your client settings)
   // Ex: abcd-1234-efgh-5678
-  const password = ''
+  const password = '3zvs-jt77-m2lr-y343'
 
   // A short name for the record that will show in urls
   // Lowercase with no spaces.
   // Ex: whats-hot
-  const recordName = ''
+  const recordName = 'musicscience'
 
   // A display name for your feed
   // Ex: What's Hot
-  const displayName = ''
+  const displayName = '#musicscience'
 
   // (Optional) A description of your feed
   // Ex: Top trending content from the whole network
-  const description = ''
+  const description = 'A community for all things music and science!'
 
   // (Optional) The path to an image to be used as your feed's avatar
   // Ex: ~/path/to/avatar.jpeg
-  const avatar: string = ''
+  const avatar: string = './sound-waves.png'
 
   // -------------------------------------
   // NO NEED TO TOUCH ANYTHING BELOW HERE
